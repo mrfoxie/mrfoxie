@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Mistry Siddh
 #### I am Blogger, Gamer, Wordpress Blogger
 
-![Banner](https://mistrysiddh.tk/images/whoami/Banner.png)
+![Banner](https://github.com/mrfoxie/mistrysiddh/blob/master/static/images/whoami/Banner.png)
 
 Myself Mistry Siddh, I'm a blogger who loves to write conspiracy theories, NEWS, tips&tricks, etc.
 
